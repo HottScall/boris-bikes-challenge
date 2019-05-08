@@ -6,6 +6,7 @@ class DockingStation
 
   def initialize
     @bikes = []
+    
   end
 
   attr_reader :bikes
