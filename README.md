@@ -1,6 +1,6 @@
 <h1>Boris Bikes Challenge</h1>
 
-</h2>Programming skill sets used:</h2>
+<h2>Programming skill sets used:</h2>
 
 <h3>Test Driven Development</h3> - Taking User Stories and turning them into meaningful tests
 
