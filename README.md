@@ -21,3 +21,7 @@ Each User Story can befound in the Wiki, User Stories have been broken down into
 Language: Ruby 
 Testing Framework: Rspec 
 
+<h2>Using the app</h2>
+
+Clone this repo and run 'bundle install' then go into the boris-bikes-challenge directory type 'irb' into your command line. You can then set a variable to an instance of the DockingStation class and ensure it responds to the "release_bike" method, you can also create an instance of the Bike class and check that it responds to the 'working?' method. 
+
