@@ -23,5 +23,5 @@ Testing Framework: Rspec
 
 <h2>Using the app</h2>
 
-Clone this repo and run 'bundle install' then go into the boris-bikes-challenge directory type 'irb' into your command line. You can then set a variable to an instance of the DockingStation class and ensure it responds to the "release_bike" method, you can also create an instance of the Bike class and check that it responds to the 'working?' method. 
+Clone this repo and and go to the command line, access the directory on your local machine and tyep'irb' into your command line. You will need to require the file (example below), you can then set a variable to an instance of the DockingStation class and ensure it responds to the "release_bike" method, you can also create an instance of the Bike class and check that it responds to the 'working?' method. 
 
